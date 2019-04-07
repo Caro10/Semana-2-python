@@ -1,6 +1,7 @@
 # Crear un codigo que calcule las soluciones de la ecuacion cuadratica.
 
-#axb2+bx+c = 0
+# ax2+bx+c
+# x2+b+1
 
 #x1= -b + b2-4.a.c / 2a #primero el descriminante
 
